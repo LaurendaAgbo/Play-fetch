@@ -1,0 +1,4 @@
+repository "Play-fetch@Curly@cloud"
+  path "/"
+    br "/main"
+    co "/main"
